@@ -2,4 +2,6 @@
 Just another repository
 Making teste on rebase
 
-I create a new branch.
+I create a new brancha.
+
+Some new changes.
