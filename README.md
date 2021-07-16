@@ -6,3 +6,5 @@ I create a new brancha.
 
 Some new changes.
 More changes.
+
+Making several commits.
