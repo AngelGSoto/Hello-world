@@ -1,10 +1,6 @@
 # Hello-world
-Just another repository
-Making teste on rebase
+Just another repository.
 
-I create a new branch.
+Some a litle changes. Improving.
 
-Some new changes.
-More changes.
-
-Making several commits.
+Some another changes.
