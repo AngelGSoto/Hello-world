@@ -8,3 +8,4 @@ y =  x ** 2
 print(y)
 
 # Plot
+plt.plot(x, y)
